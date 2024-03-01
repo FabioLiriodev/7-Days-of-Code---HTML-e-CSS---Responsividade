@@ -1,4 +1,4 @@
-![Front-end-7 Days of Code - HTML e CSS - Responsividade](https://github.com/FabioLiriodev/7-Days-of-Code---HTML-e-CSS---Responsividade/assets/140852220/28080145-e463-4540-80fc-e3216f193637)
+![Front-end-7 Days of Code - HTML e CSS - Responsividade](<Front-end-7 Days of Code - HTML e CSS - Responsividade.png>)
 
 <h2 align="center"> 💻 Descrição do projeto 💻 </h2>
 
